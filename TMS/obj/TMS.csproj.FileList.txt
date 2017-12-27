@@ -1,0 +1,15 @@
+obj\Debug\TMS.exe
+obj\Debug\TMS.pdb
+bin\Debug\TMS.exe
+bin\Debug\TMS.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TMS.Form_Alarm.resources
+obj\Debug\TMS.Form_ChangePassword.resources
+obj\Debug\TMS.Form_Login.resources
+obj\Debug\TMS.Form_Main.resources
+obj\Debug\TMS.Form_stuData.resources
+obj\Debug\Project.ISetData.resources
+obj\Debug\TMS.Properties.Resources.resources
+obj\Debug\TMS.Form_setTemp.resources
+obj\Debug\TMS.UserControl_Monitor.resources
+obj\Debug\TMS.csproj.GenerateResource.Cache

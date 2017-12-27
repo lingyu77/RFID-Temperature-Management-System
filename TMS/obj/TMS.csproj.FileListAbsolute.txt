@@ -1,0 +1,185 @@
+C:\Documents and Settings\Owner\桌面\RFID專題\TMS\TMS\bin\Debug\TMS.exe
+C:\Documents and Settings\Owner\桌面\RFID專題\TMS\TMS\bin\Debug\TMS.pdb
+C:\Documents and Settings\Owner\桌面\RFID專題\TMS\TMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\桌面\RFID專題\TMS\TMS\obj\Debug\TMS.Properties.Resources.resources
+C:\Documents and Settings\Owner\桌面\RFID專題\TMS\TMS\obj\Debug\TMS.csproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\桌面\RFID專題\TMS\TMS\obj\Debug\TMS.exe
+C:\Documents and Settings\Owner\桌面\RFID專題\TMS\TMS\obj\Debug\TMS.pdb
+C:\Documents and Settings\Owner\桌面\RFID專題\TMS\TMS\obj\Debug\TMS.Form_Login.resources
+C:\Documents and Settings\Owner\桌面\RFID專題\TMS\TMS\obj\Debug\TMS.Form_Main.resources
+C:\Documents and Settings\Owner\桌面\RFID專題\TMS\TMS\obj\Debug\TMS.Form_ChangePassword.resources
+E:\課業資料夾\專題\TMS\TMS\obj\Debug\TMS.exe
+E:\課業資料夾\專題\TMS\TMS\obj\Debug\TMS.pdb
+E:\課業資料夾\專題\TMS\TMS\bin\Debug\TMS.exe
+E:\課業資料夾\專題\TMS\TMS\bin\Debug\TMS.pdb
+E:\課業資料夾\專題\TMS\TMS\obj\Debug\ResolveAssemblyReference.cache
+E:\課業資料夾\專題\TMS\TMS\obj\Debug\TMS.Form_ChangePassword.resources
+E:\課業資料夾\專題\TMS\TMS\obj\Debug\TMS.Form_Login.resources
+E:\課業資料夾\專題\TMS\TMS\obj\Debug\TMS.Form_Main.resources
+E:\課業資料夾\專題\TMS\TMS\obj\Debug\TMS.Properties.Resources.resources
+E:\課業資料夾\專題\TMS\TMS\obj\Debug\TMS.csproj.GenerateResource.Cache
+E:\課業資料夾\專題\TMS\TMS\obj\Debug\TMS.UserControl_Monitor.resources
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\TMS\TMS\obj\Debug\TMS.exe
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\TMS\TMS\obj\Debug\TMS.pdb
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\TMS\TMS\bin\Debug\TMS.exe
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\TMS\TMS\bin\Debug\TMS.pdb
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\TMS\TMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\TMS\TMS\obj\Debug\TMS.Form_ChangePassword.resources
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\TMS\TMS\obj\Debug\TMS.Form_Login.resources
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\TMS\TMS\obj\Debug\TMS.Properties.Resources.resources
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\TMS\TMS\obj\Debug\TMS.UserControl_Monitor.resources
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\TMS\TMS\obj\Debug\TMS.csproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\桌面\TMS\TMS\obj\Debug\TMS.exe
+C:\Documents and Settings\Owner\桌面\TMS\TMS\obj\Debug\TMS.pdb
+C:\Documents and Settings\Owner\桌面\TMS\TMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\桌面\TMS\TMS\obj\Debug\TMS.Form_ChangePassword.resources
+C:\Documents and Settings\Owner\桌面\TMS\TMS\obj\Debug\TMS.Form_Login.resources
+C:\Documents and Settings\Owner\桌面\TMS\TMS\obj\Debug\TMS.Form_Main.resources
+C:\Documents and Settings\Owner\桌面\TMS\TMS\obj\Debug\TMS.Properties.Resources.resources
+C:\Documents and Settings\Owner\桌面\TMS\TMS\obj\Debug\TMS.UserControl_Monitor.resources
+C:\Documents and Settings\Owner\桌面\TMS\TMS\obj\Debug\TMS.csproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\桌面\TMS\TMS\bin\Debug\TMS.exe
+C:\Documents and Settings\Owner\桌面\TMS\TMS\bin\Debug\TMS.pdb
+F:\專題\TMS\TMS\obj\Debug\TMS.exe
+F:\專題\TMS\TMS\obj\Debug\TMS.pdb
+F:\專題\TMS\TMS\obj\Debug\ResolveAssemblyReference.cache
+F:\專題\TMS\TMS\obj\Debug\TMS.Form_ChangePassword.resources
+F:\專題\TMS\TMS\obj\Debug\TMS.Form_Login.resources
+F:\專題\TMS\TMS\obj\Debug\TMS.Form_Main.resources
+F:\專題\TMS\TMS\obj\Debug\TMS.Properties.Resources.resources
+F:\專題\TMS\TMS\obj\Debug\TMS.UserControl_Monitor.resources
+F:\專題\TMS\TMS\obj\Debug\TMS.csproj.GenerateResource.Cache
+F:\專題\TMS\TMS\bin\Debug\TMS.exe
+F:\專題\TMS\TMS\bin\Debug\TMS.pdb
+H:\專題\TMS\TMS\obj\Debug\TMS.exe
+H:\專題\TMS\TMS\obj\Debug\TMS.pdb
+H:\專題\TMS\TMS\obj\Debug\ResolveAssemblyReference.cache
+H:\專題\TMS\TMS\obj\Debug\TMS.Form_ChangePassword.resources
+H:\專題\TMS\TMS\obj\Debug\TMS.Form_Login.resources
+H:\專題\TMS\TMS\obj\Debug\TMS.Properties.Resources.resources
+H:\專題\TMS\TMS\obj\Debug\TMS.UserControl_Monitor.resources
+H:\專題\TMS\TMS\obj\Debug\TMS.csproj.GenerateResource.Cache
+H:\專題\TMS\TMS\bin\Debug\TMS.exe
+H:\專題\TMS\TMS\bin\Debug\TMS.pdb
+H:\專題\TMS\TMS\obj\Debug\TMS.Form_setTemp.resources
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\TMS\TMS\obj\Debug\TMS.Form_setTemp.resources
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\TMS\TMS\obj\Debug\TMS.Form_Main.resources
+G:\專題\TMS\TMS\obj\Debug\TMS.exe
+G:\專題\TMS\TMS\obj\Debug\TMS.pdb
+G:\專題\TMS\TMS\bin\Debug\TMS.exe
+G:\專題\TMS\TMS\bin\Debug\TMS.pdb
+G:\專題\TMS\TMS\obj\Debug\ResolveAssemblyReference.cache
+G:\專題\TMS\TMS\obj\Debug\TMS.Form_ChangePassword.resources
+G:\專題\TMS\TMS\obj\Debug\TMS.Form_Login.resources
+G:\專題\TMS\TMS\obj\Debug\TMS.Form_Main.resources
+G:\專題\TMS\TMS\obj\Debug\TMS.Properties.Resources.resources
+G:\專題\TMS\TMS\obj\Debug\TMS.Form_setTemp.resources
+G:\專題\TMS\TMS\obj\Debug\TMS.UserControl_Monitor.resources
+G:\專題\TMS\TMS\obj\Debug\TMS.csproj.GenerateResource.Cache
+G:\可愛的小寶貝-小詩\TMS\TMS\obj\Debug\TMS.exe
+G:\可愛的小寶貝-小詩\TMS\TMS\obj\Debug\TMS.pdb
+G:\可愛的小寶貝-小詩\TMS\TMS\obj\Debug\ResolveAssemblyReference.cache
+G:\可愛的小寶貝-小詩\TMS\TMS\obj\Debug\TMS.Form_ChangePassword.resources
+G:\可愛的小寶貝-小詩\TMS\TMS\obj\Debug\TMS.Form_Login.resources
+G:\可愛的小寶貝-小詩\TMS\TMS\obj\Debug\TMS.Form_Main.resources
+G:\可愛的小寶貝-小詩\TMS\TMS\obj\Debug\Project.ISetData.resources
+G:\可愛的小寶貝-小詩\TMS\TMS\obj\Debug\TMS.Properties.Resources.resources
+G:\可愛的小寶貝-小詩\TMS\TMS\obj\Debug\TMS.Form_setTemp.resources
+G:\可愛的小寶貝-小詩\TMS\TMS\obj\Debug\TMS.UserControl_Monitor.resources
+G:\可愛的小寶貝-小詩\TMS\TMS\obj\Debug\TMS.csproj.GenerateResource.Cache
+G:\可愛的小寶貝-小詩\TMS\TMS\bin\Debug\TMS.exe
+G:\可愛的小寶貝-小詩\TMS\TMS\bin\Debug\TMS.pdb
+G:\可愛的小寶貝-小詩\TMS\TMS\obj\Debug\TMS.Form_Alarm.resources
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\1126\TMS\TMS\obj\Debug\TMS.exe
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\1126\TMS\TMS\obj\Debug\TMS.pdb
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\1126\TMS\TMS\bin\Debug\TMS.exe
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\1126\TMS\TMS\bin\Debug\TMS.pdb
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\1126\TMS\TMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\1126\TMS\TMS\obj\Debug\TMS.Form_Alarm.resources
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\1126\TMS\TMS\obj\Debug\TMS.Form_ChangePassword.resources
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\1126\TMS\TMS\obj\Debug\TMS.Form_Login.resources
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\1126\TMS\TMS\obj\Debug\TMS.Form_Main.resources
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\1126\TMS\TMS\obj\Debug\Project.ISetData.resources
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\1126\TMS\TMS\obj\Debug\TMS.Properties.Resources.resources
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\1126\TMS\TMS\obj\Debug\TMS.Form_setTemp.resources
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\1126\TMS\TMS\obj\Debug\TMS.UserControl_Monitor.resources
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\1126\TMS\TMS\obj\Debug\TMS.csproj.GenerateResource.Cache
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\TMS\TMS\obj\Debug\TMS.Form_Alarm.resources
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\TMS\TMS\obj\Debug\Project.ISetData.resources
+C:\Documents and Settings\shih ping\My Documents\Visual Studio 2005\Projects\TMS\TMS\obj\Debug\TMS.Form_stuData.resources
+H:\專題\TMS\TMS\obj\Debug\TMS.Form_Alarm.resources
+H:\專題\TMS\TMS\obj\Debug\TMS.Form_Main.resources
+H:\專題\TMS\TMS\obj\Debug\TMS.Form_stuData.resources
+H:\專題\TMS\TMS\obj\Debug\Project.ISetData.resources
+E:\專題\TMS\TMS\obj\Debug\TMS.exe
+E:\專題\TMS\TMS\obj\Debug\TMS.pdb
+E:\專題\TMS\TMS\bin\Debug\TMS.exe
+E:\專題\TMS\TMS\bin\Debug\TMS.pdb
+E:\專題\TMS\TMS\obj\Debug\ResolveAssemblyReference.cache
+E:\專題\TMS\TMS\obj\Debug\TMS.Form_Alarm.resources
+E:\專題\TMS\TMS\obj\Debug\TMS.Form_ChangePassword.resources
+E:\專題\TMS\TMS\obj\Debug\TMS.Form_Login.resources
+E:\專題\TMS\TMS\obj\Debug\TMS.Form_Main.resources
+E:\專題\TMS\TMS\obj\Debug\TMS.Form_stuData.resources
+E:\專題\TMS\TMS\obj\Debug\Project.ISetData.resources
+E:\專題\TMS\TMS\obj\Debug\TMS.Properties.Resources.resources
+E:\專題\TMS\TMS\obj\Debug\TMS.Form_setTemp.resources
+E:\專題\TMS\TMS\obj\Debug\TMS.UserControl_Monitor.resources
+E:\專題\TMS\TMS\obj\Debug\TMS.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\TMS\TMS\obj\Debug\TMS.exe
+C:\Documents and Settings\Administrator\桌面\TMS\TMS\obj\Debug\TMS.pdb
+C:\Documents and Settings\Administrator\桌面\TMS\TMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\TMS\TMS\obj\Debug\TMS.Form_Alarm.resources
+C:\Documents and Settings\Administrator\桌面\TMS\TMS\obj\Debug\TMS.Form_ChangePassword.resources
+C:\Documents and Settings\Administrator\桌面\TMS\TMS\obj\Debug\TMS.Form_Login.resources
+C:\Documents and Settings\Administrator\桌面\TMS\TMS\obj\Debug\TMS.Form_Main.resources
+C:\Documents and Settings\Administrator\桌面\TMS\TMS\obj\Debug\TMS.Form_stuData.resources
+C:\Documents and Settings\Administrator\桌面\TMS\TMS\obj\Debug\Project.ISetData.resources
+C:\Documents and Settings\Administrator\桌面\TMS\TMS\obj\Debug\TMS.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\TMS\TMS\obj\Debug\TMS.Form_setTemp.resources
+C:\Documents and Settings\Administrator\桌面\TMS\TMS\obj\Debug\TMS.UserControl_Monitor.resources
+C:\Documents and Settings\Administrator\桌面\TMS\TMS\obj\Debug\TMS.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\TMS\TMS\bin\Debug\TMS.exe
+C:\Documents and Settings\Administrator\桌面\TMS\TMS\bin\Debug\TMS.pdb
+C:\Documents and Settings\Administrator\桌面\TMS\TMS\obj\Debug\TMS.Form_About.resources
+C:\Documents and Settings\Administrator\桌面\TMS\TMS\obj\Debug\TMS.Form_SearchT.resources
+C:\Documents and Settings\Administrator\桌面\TMS\TMS\obj\Debug\TMS.UserControl1.resources
+C:\Documents and Settings\Administrator\桌面\TMS\TMS\obj\Debug\TMS.UserControl2.resources
+C:\Documents and Settings\Administrator\桌面\TMS\TMS\obj\Debug\TMS.UserControl3.resources
+C:\Documents and Settings\Administrator\桌面\TMS\TMS\obj\Debug\TMS.UserControl4.resources
+G:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.exe
+G:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.pdb
+G:\專題\TMS_2\TMS\TMS\obj\Debug\ResolveAssemblyReference.cache
+G:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.Form_About.resources
+G:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.Form_Alarm.resources
+G:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.Form_ChangePassword.resources
+G:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.Form_Login.resources
+G:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.Form_Main.resources
+G:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.Form_SearchT.resources
+G:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.Form_stuData.resources
+G:\專題\TMS_2\TMS\TMS\obj\Debug\Project.ISetData.resources
+G:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.Properties.Resources.resources
+G:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.Form_setTemp.resources
+G:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.UserControl_Monitor.resources
+G:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.csproj.GenerateResource.Cache
+G:\專題\TMS_2\TMS\TMS\bin\Debug\TMS.exe
+G:\專題\TMS_2\TMS\TMS\bin\Debug\TMS.pdb
+H:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.exe
+H:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.pdb
+H:\專題\TMS_2\TMS\TMS\bin\Debug\TMS.exe
+H:\專題\TMS_2\TMS\TMS\bin\Debug\TMS.pdb
+H:\專題\TMS_2\TMS\TMS\obj\Debug\ResolveAssemblyReference.cache
+H:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.Form_About.resources
+H:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.Form_Alarm.resources
+H:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.Form_ChangePassword.resources
+H:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.Form_Login.resources
+H:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.Form_Main.resources
+H:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.Form_SearchT.resources
+H:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.Form_stuData.resources
+H:\專題\TMS_2\TMS\TMS\obj\Debug\Project.ISetData.resources
+H:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.Properties.Resources.resources
+H:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.Form_setTemp.resources
+H:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.UserControl_Monitor.resources
+H:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.csproj.GenerateResource.Cache
+H:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.Form_setReaderID.resources
+H:\專題\TMS_2\TMS\TMS\obj\Debug\TMS.Form_setRange.resources
